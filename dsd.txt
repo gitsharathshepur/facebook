@@ -1,15 +1,1 @@
-Git plays a significant role in an organization to implement DevOps methodologies. Looking at the popularity of Git i
-
-
-
-
-1 2 23 3 5  8674 8
-
-
-
-
-
-
-
-
-n DevOps, it's quite evident that there will be many job opportunities in the near future. According to a report from Grand View Research, the global DevOps market is expected to reach 12.85 Bn by 2025, growing at a CAGR of 18.60%. Here are some of the top Git interview questions that will help you crack an interview.
+Git plays a significant role in an organization to implement DevOps methodologies. Looking at the popularity of Git in DevOps, it's quite evident that there will be many job opportunities in the near future. According to a report from Grand View Research, the global DevOps market is expected to reach 12.85 Bn by 2025, growing at a CAGR of 18.60%. Here are some of the top Git interview questions that will help you crack an interview.
