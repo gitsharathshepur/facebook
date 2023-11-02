@@ -1,4 +1,4 @@
-Certainly! Here are five Linux interview questions to assess a candidate's knowledge and skills related to the Linux operating system:
+djskbnjkbgjksabjkbdnsjkbgvadsnjkndj,bsgds a,jbghadsn djkHUIOadshFANS jk;ghiCertainly! Here are five Linux interview questions to assess a candidate's knowledge and skills related to the Linux operating system:
 
 What is the Linux kernel, and how does it differ from the Linux operating system as a whole?
 
