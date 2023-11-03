@@ -1,0 +1,27 @@
+In Git, the "stash" is a feature that allows you to temporarily save changes in your working directory without committing them to your version control history. This can be useful in various situations, such as when you need to switch to a different branch or address an urgent bug fix without committing half-finished work. Here's a description of how the Git stash works:
+
+Git stash allows you to:
+
+Save Changes: Stash temporarily saves any modifications you've made to your files that haven't been committed yet, including changes to tracked files and untracked files.
+
+Clean Working Directory: It reverts your working directory to the last committed state, essentially clearing your workspace. This is useful when you need a clean slate to work on a different task.
+
+Apply or Pop: You can later reapply the stashed changes to your working directory when you're ready to continue working on the previously stashed changes. You can choose to either "apply" the stash (leaving a copy of the changes in the stash) or "pop" the stash (removing the changes from the stash after applying).
+
+Multiple Stashes: Git allows you to create multiple stashes, so you can stash changes multiple times and apply them in the order you need.
+
+Here are the basic Git stash commands:
+
+git stash save "description": Stashes your changes with a description to identify the stash later.
+
+git stash list: Lists all the stashes you've created.
+
+git stash apply stash@{n}: Applies the specified stash to your working directory, leaving a copy of the changes in the stash.
+
+git stash pop stash@{n}: Applies the specified stash to your working directory and removes it from the stash list.
+
+git stash drop stash@{n}: Deletes a specific stash without applying its changes.
+
+git stash clear: Removes all stashed changes.
+
+In summary, Git stash is a handy tool to temporarily save and manage changes, allowing you to switch tasks or handle emergencies while maintaining a clean and organized version control history.
